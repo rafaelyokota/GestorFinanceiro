@@ -4,5 +4,7 @@
     <string name="app_name">GestorFinanceiroYokota</string>
     <string name="action_settings">Settings</string>
     <string name="hello_world">Hello world!</string>
+    <string name="title_activity_cad_cred">CadCredActivity</string>
+    <string name="title_activity_cad_dec">CadDecActivity</string>
 
 </resources>

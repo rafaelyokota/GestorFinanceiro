@@ -22,6 +22,14 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name="com.example.gestorfinanceiroyokota.CadCredActivity"
+            android:label="@string/title_activity_cad_cred" >
+        </activity>
+        <activity
+            android:name="com.example.gestorfinanceiroyokota.CadDecActivity"
+            android:label="@string/title_activity_cad_dec" >
+        </activity>
     </application>
 
 </manifest>
